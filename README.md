@@ -1,6 +1,6 @@
 <h3 align="center">Gaming and backend dev.</h3>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/Squiford/count.svg" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/Squiford/count.svg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subcontiousyyy" target="blank"><img src="https://img.shields.io/twitter/follow/subcontiousyyy?logo=twitter&style=for-the-badge" alt="subcontiousyyy" /></a> </p>
 
