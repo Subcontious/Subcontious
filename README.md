@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/subcontiousyyy" target="blank"><img src="https://img.shields.io/twitter/follow/subcontiousyyy?logo=twitter&style=for-the-badge" alt="subcontiousyyy" /></a> </p>
 
-- I’m currently working on **.**
+- I’m currently working on **Lovesick**
 
-- I’m currently learning **Java**
+- I’m currently learning **C#**
 
 - How to reach me **subcontious (Discord)**
 
