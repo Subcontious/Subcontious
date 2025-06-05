@@ -8,7 +8,7 @@
 
 - I’m currently learning **C#**
 
-- How to reach me **subcontious (Discord)**
+- How to reach me **uncontious (Discord)**
 
 - I'm a passionate developer who embarked on the coding journey at the age of 14. My adventure began with creating fangames of my favorite titles using Unity 3D and C#. These early experiences sparked a deep love for programming and game development. At 17, I took a significant step forward by enrolling in a System Development program at university. During my studies, I expanded my skill set by learning various programming languages, including Python, Java, and C. While I value the versatility of these languages, my main proficiency lies in C# and Java, which I continue to focus on and refine.
 
